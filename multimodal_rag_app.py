@@ -1,4 +1,5 @@
-# Mohamed YOUSSFI, ENSET, UH2C
+# Chiki Zaid
+# tuto:Mohame el Youssfi
 import streamlit as st
 import os
 import chromadb
